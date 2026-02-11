@@ -1,36 +1,20 @@
-# 👩🏻‍💻 Desirée Bessa
+<h1 align="center">Olá 👋, eu sou Desirée Bessa </h1>
+<h3 align="center">Apaixonada por ciência e análise de dados no mundo digital</h3>
 
-**`Analista de Dados`**
+- 💁🏻‍♀️ Sou membro do laboratório de pesquisa FuzzyLab, onde atuo com análise e visualização de dados. 
 
-Me chamo Desirée Bessa de Freitas, sou natural do Rio de Janeiro/RJ e estou cursando Ciência da Computação na Universidade Veiga de Almeida (UVA). Sou apaixonada por tecnologia e, atualmente, participo de projetos de pesquisa no FuzzyLab, um laboratório acadêmico de computação com foco em impacto social, acessibilidade e inteligência artificial, onde atuo no apoio à análise de dados, utilizando Python e a biblioteca Pandas em contextos de pesquisa.
+- 🧠 Atualmente estou aprendendo **Python, Power BI e Excel Avançado**
 
+- 😉Todos os meus projetos encontram-se no meu repositório, aqui no Github! 
+
+
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/desireebessa/">
-        <img 
-            alt="linkedIn" 
-            title="Me segue lá" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=1155ba&label=LinkedIn&logo=LinkedIn&logoColor=white&style=for-the-badge&labelColor=1155ba"
-        />
-    </a>
-    <a href="https://github.com/DesireeBessa?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/DesireeBessa?color=purple&labelColor=purple&style=for-the-badge&logo=github&label=Seguidores&logoColor=whhite"
-        />
-    </a>
-    <a href="https://github.com/DesireeBessa?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DesireeBessa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/desireebessa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/desireebessa/" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Linguagens e Ferramentas:</h3>
 
-### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -55,22 +39,6 @@ Me chamo Desirée Bessa de Freitas, sou natural do Rio de Janeiro/RJ e estou cur
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/anaconda/original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/c/original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma"
-    title="Figma" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/figma/original.svg" 
 />
 <img 
     align="left" 
@@ -104,14 +72,7 @@ Me chamo Desirée Bessa de Freitas, sou natural do Rio de Janeiro/RJ e estou cur
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/jupyter/original.svg" 
 />
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/java/original.svg"
-/>
+
 <img 
     align="left" 
     alt="Github" 
